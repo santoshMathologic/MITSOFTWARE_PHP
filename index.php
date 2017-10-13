@@ -1,7 +1,7 @@
 
 <?php
 include("includes/db_con.php");
-phpinfo();
+
  
 $errors = "";
 if(isset($_POST['submit']))
@@ -48,7 +48,8 @@ if(isset($_POST['cancel']))
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<title>EMPLOYEE PORTAL : A MUTLIINNOVATE TECHNOLOGY PORTAL</title>
 
 <script>
 function var_admin()
