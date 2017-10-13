@@ -1,0 +1,23 @@
+{
+  "name": "MITSOFTWARE",
+  "homepage": "https://github.com/santoshMathologic/MITSOFTWARE_PHP",
+  "authors": [
+    "santosh"
+  ],
+  "description": "",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "^3.3.7"
+  }
+}
